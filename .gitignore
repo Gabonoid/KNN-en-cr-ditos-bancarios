@@ -1,0 +1,4 @@
+data/
+.vscode/
+__pycahce__/
+test.py
